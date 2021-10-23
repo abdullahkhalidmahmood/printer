@@ -1,25 +1,5 @@
+<StackLayout>
 
-  <StackLayout>
+  <Label text="TEST APP" class="message" textWrap="true"></Label>
 
-    <Label text="{{ message }}" class="message" textWrap="true"></Label>
-    <!-- <Button text="Search" tap="{{ doSearchPrinters }}" class="button button-a"></Button> -->
-    <Button text="Search" (tap)="doSearchPrinters()"></Button>
-
-     <Button text="{{ 'Reconnect ' + lastConnectedPrinterPort }}" tap="{{ doConnect }}" class="button button-b" visibility="{{  lastConnectedPrinterPort && !selectedPrinterPort ? 'visible' : 'collapsed' }}"></Button>
-    <!--<Button text="Print receipt A" tap="{{ doPrintReceiptA }}" class="button button-c" visibility="{{  selectedPrinterPort ? 'visible' : 'collapsed' }}"></Button>
-    <Button text="Print receipt B" tap="{{ doPrintReceiptB }}" class="button button-c" visibility="{{  selectedPrinterPort ? 'visible' : 'collapsed' }}"></Button>
-    <Button text="Print receipt C" tap="{{ doPrintReceiptC }}" class="button button-c" visibility="{{  selectedPrinterPort ? 'visible' : 'collapsed' }}"></Button>
-    <Button text="Open cash drawer" tap="{{ doOpenCashDrawer }}" class="button button-d" visibility="{{  selectedPrinterPort ? 'visible' : 'collapsed' }}"></Button>
-    <Button text="Printer status" tap="{{ doGetPrinterStatus }}" class="button button-d" visibility="{{  selectedPrinterPort ? 'visible' : 'collapsed' }}"></Button>
-    <Button text="Disconnect" tap="{{ doDisconnect }}" class="button button-e" visibility="{{  selectedPrinterPort ? 'visible' : 'collapsed' }}"></Button> -->
-
-    <ActivityIndicator busy="{{ isLoading }}"></ActivityIndicator>>
-
-    <ListView rowHeight="60" items="{{ printers }}" itemTap="{{ onPrinterTap }}" visibility="{{  !selectedPrinterPort ? 'visible' : 'collapsed' }}">
-      <ListView.itemTemplate>
-        <StackLayout>
-          <Label text="{{ portName }}" class="title"></Label>
-        </StackLayout>
-      </ListView.itemTemplate>
-    </ListView>
-  </StackLayout>
+</StackLayout>
