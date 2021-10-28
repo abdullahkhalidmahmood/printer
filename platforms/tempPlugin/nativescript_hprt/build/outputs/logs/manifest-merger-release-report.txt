@@ -1,0 +1,43 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml:2:1-6:12
+	package
+		ADDED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml:2:70-114
+		INJECTED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml
+		INJECTED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml
+		ADDED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml:2:1-6:12
+		INJECTED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml
+		ADDED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml:2:1-6:12
+		INJECTED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml:3:3-65
+	android:name
+		ADDED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml:3:20-63
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml:4:3-71
+	android:name
+		ADDED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml:4:20-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml:5:3-78
+	android:name
+		ADDED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml:5:20-76
+uses-sdk
+INJECTED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml
+INJECTED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml
+		ADDED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml
+		INJECTED from /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml

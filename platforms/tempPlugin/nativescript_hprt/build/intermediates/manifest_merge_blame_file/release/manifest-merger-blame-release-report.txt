@@ -1,0 +1,20 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.nativescript.nativescript_hprt"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk android:targetSdkVersion="26" />
+7-->/Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.BLUETOOTH" />
+9-->/Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml:3:3-65
+9-->/Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml:3:20-63
+10    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+10-->/Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml:4:3-71
+10-->/Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml:4:20-69
+11    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+11-->/Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml:5:3-78
+11-->/Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/tempPlugin/nativescript_hprt/src/main/AndroidManifest.xml:5:20-76
+12
+13</manifest>

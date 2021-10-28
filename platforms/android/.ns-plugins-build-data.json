@@ -1,0 +1,42 @@
+{
+	"@nativescript/core": {
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/@nativescript/core/platforms/android/native-api-usage.json": "34ee0e9771ad7dd9d388c191734d71507a04565a",
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/@nativescript/core/platforms/android/widgets-release.aar": "d17b52627f821ca50d562ece5cb8c8f48b84e917"
+	},
+	"nativescript-hprt": {
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-hprt/platforms/android/AndroidManifest.xml": "09c5a53a17b7a427ed056671b87fba901de875c3",
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-hprt/platforms/android/README.md": "45f2f63427be0a461a7e2dfd5ff0ad5bab64068f",
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-hprt/platforms/android/include.gradle": "4945565d2e438104a7124474e0975db3692b0b02",
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-hprt/platforms/android/jniLibs/arm64-v8a/libprt_serial_port.so": "7f2319c8dab23cbe91bbba7874e8fe26c3cc6fc8",
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-hprt/platforms/android/jniLibs/armeabi/libhprt_printer_model.so": "474a79699f62d39bc22016e763fb1bf40907c38c",
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-hprt/platforms/android/jniLibs/armeabi/libprt_serial_port.so": "0a8283e1256bd4d17a283b5f6a01bbdfe4ed4060",
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-hprt/platforms/android/jniLibs/armeabi-v7a/libhprt_printer_model.so": "1522c91d1cc88db9a1167286a4f3ca8d41874d05",
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-hprt/platforms/android/jniLibs/armeabi-v7a/libprt_serial_port.so": "f5576f1f4a8076e3e46c143521d76f2ab071df02",
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-hprt/platforms/android/jniLibs/mips/libprt_serial_port.so": "80545c3252e7fdb7e9ec1884785ac66d7a36d972",
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-hprt/platforms/android/jniLibs/mips64/libprt_serial_port.so": "c5e9fc4b766ab50f26327134049e999dca70c0a7",
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-hprt/platforms/android/jniLibs/mips64/libhprt_printer_model.so": "297074a3428d653d08dce520888eb95320932324",
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-hprt/platforms/android/jniLibs/x86/libprt_serial_port.so": "5739634a2c960aca7d5d8fcc34b491ff9f1ae770",
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-hprt/platforms/android/jniLibs/x86/libhprt_printer_model.so": "c778134fc33848268f5cf125e464db0397900779",
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-hprt/platforms/android/jniLibs/x86_64/libprt_serial_port.so": "9c0fdc57f2f644cbbdf28bd3a37aa5abe2bbaad3",
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-hprt/platforms/android/jniLibs/x86_64/libhprt_printer_model.so": "ae8c616b41e8fbed2ea1a32387624812c69d7a58",
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-hprt/platforms/android/jniLibs/armeabi/libhprt_printer_helper_cmd.so": "f5ce7eb57fbbeb311eb6e151334ff0176bafde0d",
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-hprt/platforms/android/Android_SDK_ESC_V0.1.5.jar": "327c0740e9a033aa747851adf4706bc1946bf61d",
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-hprt/platforms/android/jniLibs/arm64-v8a/libhprt_printer_model.so": "d10a6ac7bdfe2677313e1dbb584d7300cdc0df2d",
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-hprt/platforms/android/jniLibs/armeabi-v7a/libhprt_printer_helper_cmd.so": "61be415e8813fd3bc9089911daf5b5c784891124",
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-hprt/platforms/android/jniLibs/mips/libhprt_printer_model.so": "435fe645b883ffdaecc6ce7875fcc892a85670cb",
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-hprt/platforms/android/jniLibs/x86/libhprt_printer_helper_cmd.so": "f631442ad3851ef96a17124dfc26c0d1d600da70",
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-hprt/platforms/android/jniLibs/x86_64/libhprt_printer_helper_cmd.so": "434e441bda149450d131bf57c42ca0269c0754ce",
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-hprt/platforms/android/jniLibs/mips/libhprt_printer_helper_cmd.so": "5e122fa978dfcc7b361e2319a1a63465fd089de4",
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-hprt/platforms/android/jniLibs/mips64/libhprt_printer_helper_cmd.so": "8b1a87bbb99dc9e9ae8d3e5264fcd2fbaa3805d6",
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-hprt/platforms/android/nativescript_hprt.aar": "7f615eeaef8ed474290c0c38cfd45c986ddb3616",
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-hprt/platforms/android/jniLibs/arm64-v8a/libhprt_printer_helper_cmd.so": "2c86dd05cde484232b4173f6dce505645a2ea421"
+	},
+	"nativescript-star-printer": {
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-star-printer/platforms/android/nativescript_star_printer.aar": "ad91b190d6509b09b3a2d0c93328c560347e4c26",
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-star-printer/platforms/android/StarIOPort3.1.jar": "6075fb2c5ec014b329f2de92455bda4158d4840a",
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/nativescript-star-printer/platforms/android/starioextension.jar": "a4bbbca3ac927960727a5b018addbd25139e0abd"
+	},
+	"@nstudio/nativescript-floatingactionbutton": {
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/@nstudio/nativescript-floatingactionbutton/platforms/android/include.gradle": "8c1fe5211f608e2cdeb32d726de040ca97d7e0f1"
+	}
+}
