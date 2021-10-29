@@ -1,12 +1,14 @@
 import { NgModule } from "@angular/core";
 import { Routes } from "@angular/router";
 import { NativeScriptRouterModule } from "@nativescript/angular";
-import { PrinterComponent } from "./printer/printer.component";
+import { HomeComponent } from "./components/home/home.component";
+import { MainEditorComponent } from "./components/main-editor/main-editor.component";
 
 
 const routes: Routes = [
-    { path: "", redirectTo: "printer", pathMatch: "full" },
-    { path: "printer", component: PrinterComponent }
+    { path: "", redirectTo: "home", pathMatch: "full" },
+    { path: "home", component: HomeComponent },
+    { path: "editor", component: MainEditorComponent }
 ];
 
 @NgModule({

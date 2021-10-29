@@ -16,6 +16,7 @@ MERGED from [:nativescript-optimized-with-inspector:] /Users/abdullahkhalid/.gra
 MERGED from [:widgets-release:] /Users/abdullahkhalid/.gradle/caches/transforms-2/files-2.1/2b3ba8ff2f28e1de052f9c77a176546b/jetified-widgets-release/AndroidManifest.xml:2:1-14:12
 MERGED from [:nativescript_hprt:] /Users/abdullahkhalid/.gradle/caches/transforms-2/files-2.1/f7b4e55865858a5757413dbdcc2e0b40/jetified-nativescript_hprt/AndroidManifest.xml:2:1-13:12
 MERGED from [:nativescript_star_printer:] /Users/abdullahkhalid/.gradle/caches/transforms-2/files-2.1/6202335a847cbee58defe3da49943e32/jetified-nativescript_star_printer/AndroidManifest.xml:2:1-11:12
+MERGED from [:webviewinterface:] /Users/abdullahkhalid/.gradle/caches/transforms-2/files-2.1/ec9bb51f4cc5bb29138ebfe207220726/jetified-webviewinterface/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/abdullahkhalid/.gradle/caches/transforms-2/files-2.1/39d763b7017088406e86864416d2a321/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/abdullahkhalid/.gradle/caches/transforms-2/files-2.1/a08f164688aa1831842ad0f60dbfec9d/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/abdullahkhalid/.gradle/caches/transforms-2/files-2.1/f25d8ad93ca9c1f7a929f44b3abb106c/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
@@ -166,6 +167,8 @@ MERGED from [:nativescript_hprt:] /Users/abdullahkhalid/.gradle/caches/transform
 MERGED from [:nativescript_hprt:] /Users/abdullahkhalid/.gradle/caches/transforms-2/files-2.1/f7b4e55865858a5757413dbdcc2e0b40/jetified-nativescript_hprt/AndroidManifest.xml:7:5-47
 MERGED from [:nativescript_star_printer:] /Users/abdullahkhalid/.gradle/caches/transforms-2/files-2.1/6202335a847cbee58defe3da49943e32/jetified-nativescript_star_printer/AndroidManifest.xml:7:5-47
 MERGED from [:nativescript_star_printer:] /Users/abdullahkhalid/.gradle/caches/transforms-2/files-2.1/6202335a847cbee58defe3da49943e32/jetified-nativescript_star_printer/AndroidManifest.xml:7:5-47
+MERGED from [:webviewinterface:] /Users/abdullahkhalid/.gradle/caches/transforms-2/files-2.1/ec9bb51f4cc5bb29138ebfe207220726/jetified-webviewinterface/AndroidManifest.xml:7:5-9:41
+MERGED from [:webviewinterface:] /Users/abdullahkhalid/.gradle/caches/transforms-2/files-2.1/ec9bb51f4cc5bb29138ebfe207220726/jetified-webviewinterface/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/abdullahkhalid/.gradle/caches/transforms-2/files-2.1/39d763b7017088406e86864416d2a321/cardview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/abdullahkhalid/.gradle/caches/transforms-2/files-2.1/39d763b7017088406e86864416d2a321/cardview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/abdullahkhalid/.gradle/caches/transforms-2/files-2.1/a08f164688aa1831842ad0f60dbfec9d/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44

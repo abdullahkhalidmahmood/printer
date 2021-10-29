@@ -21,6 +21,7 @@
 /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/android/app/build/exploded-dependencies/87f3d14e8a3809c518e5b05fd33dc616/classes.jar
 /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/android/app/build/exploded-dependencies/f5445bd449893a59dd2bc3b3e1e7f694/classes.jar
 /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/android/app/build/exploded-dependencies/6c5ecaf23b399c219cf4941fff4ea560/classes.jar
+/Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/android/app/build/exploded-dependencies/bb6771c4c95acdc29a47fe8449c3aa01/classes.jar
 /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/android/app/build/exploded-dependencies/508519fb10371e7d57e46b742f277b23/classes.jar
 /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/android/app/build/exploded-dependencies/9724fbf18457a5948fd5b89c8c5050da/classes.jar
 /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/android/app/build/exploded-dependencies/3f75a25c8cafede22f8d4310a5a9fbfe/classes.jar
@@ -52,3 +53,4 @@
 /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/android/app/build/exploded-dependencies/19b170f8dee1cfab0044dcee68fd8475/classes.jar
 /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/android/app/build/exploded-dependencies/9123d8ed86d643498d183a6a7d437cd6/classes.jar
 /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/android/app/build/exploded-dependencies/daca113a880883a9cf302442f308b03e/classes.jar
+/Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/android/app/build/intermediates/javac/debug

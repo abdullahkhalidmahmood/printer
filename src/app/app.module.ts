@@ -3,7 +3,8 @@ import { NativeScriptModule } from "@nativescript/angular";
 
 import { AppRoutingModule } from "./app-routing.module";
 import { AppComponent } from "./app.component";
-import { PrinterComponent } from './printer/printer.component';
+import { HomeComponent } from './components/home/home.component';
+import { MainEditorComponent } from './components/main-editor/main-editor.component';
 
 @NgModule({
     bootstrap: [
@@ -15,7 +16,8 @@ import { PrinterComponent } from './printer/printer.component';
     ],
     declarations: [
         AppComponent,
-        PrinterComponent
+        HomeComponent,
+        MainEditorComponent
     ],
     providers: [],
     schemas: [

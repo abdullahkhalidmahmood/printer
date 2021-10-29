@@ -12,6 +12,8 @@ The imported CSS rules must precede all other types of rules.
 */
 @import "~@nativescript/theme/css/core.css";
 @import "~@nativescript/theme/css/default.css";
+@import '~@finalsite/rich-text-editor/css/default.css';
+
 
 /* Place any CSS rules you want to apply on both iOS and Android here.
 This is where the vast majority of your CSS code goes. */
@@ -22,4 +24,22 @@ The following CSS rule changes the font size of all Buttons that have the
 */
 Button.-primary {
     font-size: 18;
+}
+
+#editor {
+    margin: 0 10px;
+    padding: 0;
+}
+
+.cke_skin_kama span.cke_browser_webkit,
+.cke_skin_kama span.cke_browser_gecko18 {
+    outline: none !important;
+}
+
+.cke_float {
+    display: none !important;
+}
+
+[contenteditable]:focus {
+    outline: 0px solid transparent;
 }

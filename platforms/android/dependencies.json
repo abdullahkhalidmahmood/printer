@@ -1,5 +1,9 @@
 [
     {
+        "name": "@finalsite/rich-text-editor",
+        "directory": "../../node_modules/@finalsite/rich-text-editor"
+    },
+    {
         "name": "@nativescript/angular",
         "directory": "../../node_modules/@nativescript/angular"
     },
@@ -22,6 +26,10 @@
     {
         "name": "nativescript-star-printer",
         "directory": "../../node_modules/nativescript-star-printer"
+    },
+    {
+        "name": "@nota/nativescript-webview-ext",
+        "directory": "../../node_modules/@nota/nativescript-webview-ext"
     },
     {
         "name": "nativescript-intl",

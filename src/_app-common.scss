@@ -1,0 +1,221 @@
+@import "~@nativescript/theme/core";
+@import "~@nativescript/theme/blue";
+@import "./basic-theme/colors";
+
+
+
+// Place any CSS rules you want to apply on both iOS and Android here.
+// This is where the vast majority of your CSS code goes.
+
+// Font icon class
+.fab {
+    font-family: "Font Awesome 5 Brands", "fa-brands-400";
+    font-weight: 400;
+}
+
+.fas {
+    font-family: "Font Awesome 5 Free", "fa-solid-900";
+    font-weight: 900;
+}
+
+.far {
+    font-family: "Font Awesome 5 Free", "fa-regular-400";
+    font-weight: 400;
+}
+
+// Custom tabstrip item class
+.navigation__item {
+
+    &:active,
+    &:active Label {
+        @include colorize($contrasted-color: complementary background 20% 0%);
+    }
+}
+
+
+
+
+// .back-ground-color {
+//     background-color: $primaryColor;
+// }
+
+// .primary-color {
+//     color: $primaryColor;
+// }
+
+// .gray-color {
+//     color: $vDarkGrayColor;
+// }
+
+
+
+.rl-24 {
+    font-family: "Roboto", "Roboto-Light";
+    font-size: 24pt;
+}
+
+.rl-21 {
+    font-family: "Roboto", "Roboto-Light";
+    font-size: 21pt;
+}
+
+.rl-18 {
+    font-family: "Roboto", "Roboto-Light";
+    font-size: 18pt;
+}
+
+.rl-16 {
+    font-family: "Roboto", "Roboto-Light";
+    font-size: 16pt;
+}
+
+.rl-14 {
+    font-family: "Roboto", "Roboto-Light";
+    font-size: 14pt;
+}
+
+.rl-13 {
+    font-family: "Roboto", "Roboto-Light";
+    font-size: 13pt;
+}
+
+.rl-12 {
+    font-family: "Roboto", "Roboto-Light";
+    font-size: 12pt;
+}
+
+.rli-10 {
+    font-family: "Roboto", "Roboto-Light";
+    font-size: 10pt;
+    font-style: italic;
+}
+
+.rr-48 {
+    font-family: "Roboto", "Roboto-Regular";
+    font-size: 48pt;
+}
+
+.rr-36 {
+    font-family: "Roboto", "Roboto-Regular";
+    font-size: 36pt;
+}
+
+.rr-24 {
+    font-family: "Roboto", "Roboto-Regular";
+    font-size: 24pt;
+}
+
+.rr-21 {
+    font-family: "Roboto", "Roboto-Regular";
+    font-size: 21pt;
+}
+
+.rr-20 {
+    font-family: "Roboto", "Roboto-Regular";
+    font-size: 19pt;
+}
+
+.rr-19 {
+    font-family: "Roboto", "Roboto-Regular";
+    font-size: 20pt;
+}
+
+.rr-18 {
+    font-family: "Roboto", "Roboto-Regular";
+    font-size: 18pt;
+}
+
+.rr-14 {
+    font-family: "Roboto", "Roboto-Regular";
+    font-size: 14pt;
+}
+
+
+.rr-16 {
+    font-family: "Roboto", "Roboto-Regular";
+    font-size: 16pt;
+}
+
+.rr-17 {
+    font-family: "Roboto", "Roboto-Regular";
+    font-size: 17pt;
+}
+
+
+.rr-12 {
+    font-family: "Roboto", "Roboto-Regular";
+    font-size: 12pt;
+}
+
+.rr-30 {
+    font-family: "Roboto", "Roboto-Regular";
+    font-size: 30pt;
+}
+
+.rb-30 {
+    font-family: "Roboto", "Roboto-Bold";
+    font-size: 30pt;
+}
+
+.rb-24 {
+    font-family: "Roboto", "Roboto-Bold";
+    font-size: 24pt;
+}
+
+.rb-12 {
+    font-family: "Roboto", "Roboto-Bold";
+    font-size: 12pt;
+}
+
+.rb-20 {
+    font-family: "Roboto", "Roboto-Bold";
+    font-size: 20pt;
+}
+
+.rb-21 {
+    font-family: "Roboto", "Roboto-Bold";
+    font-size: 21pt;
+}
+
+.rb-16 {
+    font-family: "Roboto", "Roboto-Bold";
+    font-size: 16pt;
+}
+
+.rb-18 {
+    font-family: "Roboto", "Roboto-Bold";
+    font-size: 18pt;
+}
+
+
+
+.rm-21 {
+    font-family: "Roboto", "Roboto-Medium";
+    font-size: 21pt;
+}
+
+.rm-18 {
+    font-family: "Roboto", "Roboto-Medium";
+    font-size: 18pt;
+}
+
+.rm-12 {
+    font-family: "Roboto", "Roboto-Medium";
+    font-size: 12pt;
+}
+
+
+.rt-18 {
+    font-family: "Roboto", "Roboto-Thin";
+    font-size: 18pt;
+}
+
+.rt-14 {
+    font-family: "Roboto", "Roboto-Thin";
+    font-size: 14pt;
+}
+
+.rt-12 {
+    font-family: "Roboto", "Roboto-Thin";
+    font-size: 12pt;
+}

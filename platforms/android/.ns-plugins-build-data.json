@@ -38,5 +38,8 @@
 	},
 	"@nstudio/nativescript-floatingactionbutton": {
 		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/@nstudio/nativescript-floatingactionbutton/platforms/android/include.gradle": "8c1fe5211f608e2cdeb32d726de040ca97d7e0f1"
+	},
+	"@nota/nativescript-webview-ext": {
+		"/Users/abdullahkhalid/Desktop/printingApp/printerProj/node_modules/@nota/nativescript-webview-ext/platforms/android/webviewinterface.aar": "b7a61f638215ffcab23fc277985df28891ba48e8"
 	}
 }
