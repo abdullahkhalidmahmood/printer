@@ -14,14 +14,14 @@ registerElement(
 export class HomeComponent implements OnInit {
 
   public items = [
-    { name: "Note 1"},
-    { name: "Note 2"},
-    { name: "Note 3"},
-    { name: "Note 4"},
-    { name: "Note 5"},
-    { name: "Note 6"},
-    { name: "Note 7"},
-    { name: "Note 8"},
+    { name: "Note 1",date:"20/9/2021"},
+    { name: "Note 2",date:"22/9/2021"},
+    { name: "Note 3",date:"11/9/2021"},
+    { name: "Note 4",date:"10/9/2021"},
+    { name: "Note 5",date:"09/8/2021"},
+    { name: "Note 6",date:"01/8/2021"},
+    { name: "Note 7",date:"29/3/2021"},
+    { name: "Note 8",date:"20/9/2021"},
     
 
   ]
