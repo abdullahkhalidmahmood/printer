@@ -16,6 +16,10 @@
         "directory": "../../node_modules/@nativescript/theme"
     },
     {
+        "name": "@nota/nativescript-webview-ext",
+        "directory": "../../node_modules/@nota/nativescript-webview-ext"
+    },
+    {
         "name": "@nstudio/nativescript-floatingactionbutton",
         "directory": "../../node_modules/@nstudio/nativescript-floatingactionbutton"
     },
@@ -26,10 +30,6 @@
     {
         "name": "nativescript-star-printer",
         "directory": "../../node_modules/nativescript-star-printer"
-    },
-    {
-        "name": "@nota/nativescript-webview-ext",
-        "directory": "../../node_modules/@nota/nativescript-webview-ext"
     },
     {
         "name": "nativescript-intl",

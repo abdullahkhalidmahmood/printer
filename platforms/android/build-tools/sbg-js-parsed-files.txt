@@ -1,4 +1,3 @@
 /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/android/app/src/main/assets/app/runtime.js
 /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/android/app/src/main/assets/app/bundle.js
 /Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/android/app/src/main/assets/app/vendor.js
-/Users/abdullahkhalid/Desktop/printingApp/printerProj/platforms/android/app/src/main/assets/app/tns-java-classes.js

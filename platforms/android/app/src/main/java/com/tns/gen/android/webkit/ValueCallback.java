@@ -3,19 +3,20 @@
  * static binding generator from the resources it found.
  * Please do not modify by hand.
  */
-package com.tns.gen.java.lang;
+package com.tns.gen.android.webkit;
 
-public class Object_vendor_144400_28_ClickListenerImpl extends java.lang.Object
-    implements com.tns.NativeScriptHashCodeProvider, android.view.View.OnClickListener {
-  public Object_vendor_144400_28_ClickListenerImpl() {
+public class ValueCallback extends java.lang.Object
+    implements com.tns.NativeScriptHashCodeProvider,
+        android.webkit.ValueCallback<java.lang.Object> {
+  public ValueCallback() {
     super();
     com.tns.Runtime.initInstance(this);
   }
 
-  public void onClick(android.view.View param_0) {
+  public void onReceiveValue(java.lang.Object param_0) {
     java.lang.Object[] args = new java.lang.Object[1];
     args[0] = param_0;
-    com.tns.Runtime.callJSMethod(this, "onClick", void.class, args);
+    com.tns.Runtime.callJSMethod(this, "onReceiveValue", void.class, args);
   }
 
   public int hashCode__super() {

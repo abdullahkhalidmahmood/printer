@@ -41,7 +41,10 @@ android.text.style.ClickableSpan*vendor*138283*28*ClickableSpanImpl*onClick,upda
 android.text.style.MetricAffectingSpan*vendor*138310*28*BaselineAdjustedSpanImpl*updateDrawState,updateMeasureState,updateState***
 java.lang.Object*vendor*139386*28*TimeChangedListenerImpl*onTimeChanged***android.widget.TimePicker.OnTimeChangedListener
 android.webkit.WebViewClient*vendor*139822*28*WebViewClientImpl*shouldOverrideUrlLoading,onPageStarted,onPageFinished,onReceivedError***
-java.lang.Object*vendor*144400*28*ClickListenerImpl*onClick***android.view.View.OnClickListener
+android.webkit.WebViewClient*vendor*145081*28*WebViewExtClientImpl*shouldOverrideUrlLoading,shouldInterceptRequest,onPageStarted,onPageFinished,onReceivedError,onReceivedErrorAPI23,onReceivedErrorBeforeAPI23***
+android.webkit.WebChromeClient*vendor*145232*28*WebChromeViewExtClientImpl*onShowCustomView,hideCustomView,onHideCustomView,onProgressChanged,onReceivedTitle,onJsAlert,onJsConfirm,onJsPrompt,onConsoleMessage***
+dk.nota.webviewinterface.WebViewBridgeInterface*vendor*145374*28*WebViewBridgeInterfaceImpl*emitEventToNativeScript***
+java.lang.Object*vendor*146051*28*ClickListenerImpl*onClick***android.view.View.OnClickListener
 android.view.ViewTreeObserver.OnGlobalLayoutListener*vendor*98607*41**onGlobalLayout***
 android.app.Application.ActivityLifecycleCallbacks*vendor*98620*32**onActivityCreated,onActivityDestroyed,onActivityPaused,onActivityResumed,onActivitySaveInstanceState,onActivityStarted,onActivityStopped***
 android.content.ComponentCallbacks2*vendor*98695*32**onLowMemory,onTrimMemory,onConfigurationChanged***
@@ -71,3 +74,5 @@ android.content.DialogInterface.OnDismissListener*vendor*120523*40**onDismiss***
 org.nativescript.widgets.Async.CompleteCallback*vendor*125191*26**onComplete,onError***
 android.view.ViewTreeObserver.OnScrollChangedListener*vendor*130073*24**onScrollChanged***
 java.lang.Runnable*vendor*140551*68**run***
+android.webkit.ValueCallback*vendor*145551*59**onReceiveValue***
+android.view.View.OnTouchListener*vendor*145711*47**onTouch***
